@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 tensorflow
 ultralytics
 pillow
+=======
+streamlit
+tensorflow
+ultralytics
+pillow
+>>>>>>> 9578fbccb31f79616ca175dbc3c2ff67189d1bcf
 numpy
