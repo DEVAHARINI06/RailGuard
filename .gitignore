@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+railguard-env/
+.venv/
+
+# Trained model files (too large for GitHub, share via Drive/Releases instead)
+models/*.keras
+models/*.pt
+models/*.h5
+
+# Datasets
+data/
+*.zip
+
+# Streamlit / app runtime
+temp_uploads/
+annotated_temp/
+railguard_history.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# Environment
+*.env
